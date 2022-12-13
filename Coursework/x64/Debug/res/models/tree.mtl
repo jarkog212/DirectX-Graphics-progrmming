@@ -1,0 +1,15 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl tree02_bark_mt
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.100000 textures\\Tree_bark2_colorv2.jpg
+map_Kd C:\\Users\\jarko\\Desktop\\tree.png
+map_d C:\\Users\\jarko\\Desktop\\tree.png
